@@ -14,6 +14,10 @@
 		"sveltekit"
 	],
 	"author": "LacheRo",
+	"repository": "lacherogwu/sveltekit-tailwindcss-setup",
+	"bugs": {
+		"url": "https://github.com/lacherogwu/sveltekit-tailwindcss-setup/issues"
+	},
 	"license": "MIT",
 	"bin": "src/main.js",
 	"publishConfig": {
