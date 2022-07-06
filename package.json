@@ -1,0 +1,23 @@
+{
+	"name": "sveltekit-tailwindcss-setup",
+	"version": "1.0.0",
+	"description": "Setup tailwindcss on Sveltekit automatically",
+	"main": "src/main.js",
+	"files": [
+		"src/*",
+		"static/*"
+	],
+	"scripts": {},
+	"keywords": [
+		"tailwindcss",
+		"tailwind",
+		"sveltekit"
+	],
+	"author": "LacheRo",
+	"license": "MIT",
+	"bin": "src/main.js",
+	"publishConfig": {
+		"access": "public"
+	},
+	"type": "module"
+}
