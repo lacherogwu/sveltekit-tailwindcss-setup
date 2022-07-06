@@ -13,5 +13,10 @@ This library will overwrite the following files:
 - app.css
 - \_\_layout.svelte
 
+## How to use?
+
+Initialize sveltekit project (npm init svelte)
+Then run `npx sveltekit-tailwindcss-setup`
+
 This library is implementing these steps all at once
 https://tailwindcss.com/docs/guides/sveltekit
