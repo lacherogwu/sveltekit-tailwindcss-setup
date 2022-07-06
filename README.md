@@ -1,5 +1,7 @@
 # Setup tailwindcss on Sveltekit automatically
 
+Setup tailwindcss on Sveltekit automatically
+
 ### Important
 
 > :warning: **Run this library when you first initialize your sveltekit project**: Be very careful here!
